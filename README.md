@@ -1,2 +1,7 @@
 # SQLAnalysis_PublicHousingInspection
 SQL analysis of public housing inspection data uses window functions for rankings and statistics, identifying compliance issues and improvement areas. It supports data-driven decisions to enhance housing quality.
+
+The project involves a detailed SQL analysis of public housing inspection data, focusing on assessing the quality and compliance of housing units against set standards. In the analysis, advanced SQL techniques, such as window functions, are employed to conduct a thorough examination of the data. These SQL features are utilized to calculate rankings, aggregate statistics, and perform partitioned computations across different subsets of data, enabling a deep dive into inspection scores, compliance rates, and trends over time.
+
+The goal is to leverage these insights to identify areas for improvement, prioritize interventions, and enhance overall housing quality. Through the application of window functions and other SQL operations, the analysis provides a granified view of the data, highlighting patterns of non-compliance and areas requiring immediate attention. The output includes detailed reports and summaries that support decision-making processes for housing authorities, aimed at optimizing public housing standards and living conditions for residents. This comprehensive approach to data analysis underscores the project's commitment to using sophisticated SQL techniques to drive meaningful improvements in public housing management and policy.
+
